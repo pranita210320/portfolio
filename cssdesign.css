@@ -1,0 +1,100 @@
+
+
+body {
+	background-color: powderblue;	
+}
+
+.top1 {
+	text-align: center;
+	font-family: Segoe Script,Arial;
+	font-size: 34px;
+	background-color: powderblue;
+	margin-top: 0;
+}
+
+.middle1 {
+	margin:auto;
+	text-align: center;
+	background-color: azure;
+	padding: 50px;
+}
+
+.me {
+	text-align: center;
+	border-radius: 70%;
+}
+
+.bottom1 {
+	text-align: left;
+	background-color: powderblue;
+	font-size: 20px;
+}
+
+.name {
+	color: darkcyan;
+}
+
+.bottomtext{
+	color:gray;
+}
+
+
+
+.img2 {
+	margin: 10px;
+	padding:20px;
+}
+
+.img3{
+	padding:20px;
+}
+
+.top {
+	background-color: powderblue;
+	margin-top: 0;
+	text-align: center;
+	font-family: Segoe Script,Arial;
+	font-size: 34px;
+	background-color: powderblue;
+	margin-top: 0;
+}
+
+.middle{
+	background-color: azure;
+}
+
+.bottom {
+	background-color: azure;
+
+}
+
+.middle3 {
+	text-align: left;
+	background-color: azure;
+	padding: 50px;
+}
+
+
+.bottom3 {
+	background-color: azure;
+	text-align: left;
+	background-color: azure;
+	padding: 50px;
+	font-size:24px;
+}
+
+.top4{
+	text-align: left;
+	background-color: azure;
+	padding: 50px;
+	font-size: 24px;
+}
+
+.top5 {
+	text-align: center;
+	background-color: azure;
+	padding: 50px;
+	font-size: 24px;
+}
+
+
